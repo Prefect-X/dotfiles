@@ -1,0 +1,3 @@
+This is the collection of my setup files for bash, vim, i3, etc...  as well as my automatic download and setup script for new Linux installations.
+
+-- Dale Leighton
